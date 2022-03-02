@@ -6,7 +6,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "build": "npx tsc",
-        "deploy": "chmod +x ./bin/deploy.sh &&  ./bin/deploy.sh"
+        "deploy": "chmod +x .bin/deploy.sh &&  .bin/deploy.sh"
 
     },
 
